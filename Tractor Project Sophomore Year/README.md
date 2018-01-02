@@ -1,4 +1,4 @@
-#Here are the instructions given to the class for the Tractor Project:
+# Here are the instructions given to the class for the Tractor Project:
 
 
 In this assignment you will implement a simple framework for a “Little Farm” RTS game. You might need it later for further assignments so make sure it is written and documented well.
@@ -31,7 +31,7 @@ Feel free to add more methods and variables as long as the specified interface s
 
  
 
-ASSIGMNENT
+# ASSIGMNENT
 
  
 
@@ -41,7 +41,7 @@ enum Activity {SEEDING, HARVESTING, MOVING, IDLE}
 
  
 
-Class Tractor
+## Class Tractor
 
  
 
@@ -68,7 +68,7 @@ Tractor(int x_val, int y_val, unsigned short size_val, Activity activity_val) �
 
  
 
-Class Game
+## Class Game
 
  
 
