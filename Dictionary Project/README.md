@@ -57,19 +57,11 @@ Dictionary<std::string, int> container; // creates new empty container that
 
 
 
-container [“Crazy”] =1;                      // the container is empty so a new
-
-// entry with a key “Crazy” and a
-
-// value 1 is created.
+container [“Crazy”] =1;                      // the container is empty so a new entry with a key “Crazy” and a value 1 is created.
 
 
 
-container [“Crazy”] += 1;                   // the existing value with the key
-
-// “Crazy” was accessed and increased
-
-//  by 1.
+container [“Crazy”] += 1;                   // the existing value with the key “Crazy” was accessed and increased by 1.
 
 
 
