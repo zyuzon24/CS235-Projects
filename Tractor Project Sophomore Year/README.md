@@ -1,4 +1,4 @@
-Here are the instructions given to the class for the Tractor Project:
+#Here are the instructions given to the class for the Tractor Project:
 
 
 In this assignment you will implement a simple framework for a “Little Farm” RTS game. You might need it later for further assignments so make sure it is written and documented well.
